@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "843110163434",
+    "firebase_url": "https://healthtag-50bb0.firebaseio.com",
+    "project_id": "healthtag-50bb0",
+    "storage_bucket": "healthtag-50bb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843110163434:android:b7df97d98d484d7e",
+        "android_client_info": {
+          "package_name": "com.example.mahmoud.healthtag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843110163434-ne09nch98jv775fmr5749dggkaggc4hl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoud.healthtag",
+            "certificate_hash": "F1C5B53668B3BB1D6B4708B328E861858CB0642F"
+          }
+        },
+        {
+          "client_id": "843110163434-osvo7t0rcfurc9iopgdtbaquab57hbpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkpZQRPTF_DQIGqazkKDX-j9B7Bv3_rfA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843110163434-osvo7t0rcfurc9iopgdtbaquab57hbpm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
